@@ -5,9 +5,9 @@
 }
 
 body {
-    background-color: mediumslateblue;
-    color: white;
-    font-family: "Poppins", sans-serif;
+    background-color: rgb(154, 147, 194);
+    color: rgb(177, 188, 232);
+    font-family: "Space Mono", sans-serif;
     min-height: 100vh;
 }
 
