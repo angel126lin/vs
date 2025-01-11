@@ -6,8 +6,8 @@
 
 body {
     background-color: rgb(154, 147, 194);
-    color: rgb(177, 188, 232);
-    font-family: "Space Mono", sans-serif;
+    color: rgb(22, 62, 222);
+    font-family: "Space Mono", Space Mono;
     min-height: 100vh;
 }
 
@@ -34,7 +34,7 @@ form button {
 }
 
 form button {
-    color: rgb(255, 200, 0);
+    color: rgb(110, 154, 210);
     background: white;
     cursor: pointer;
     transition: all 0.3 ease;
